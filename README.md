@@ -12,7 +12,10 @@ The notebook will run and generate a set of results
 The results include a set of images with bounding boxes drawn around the detected tomato fruits
 
 # Dataset:
-The custom dataset used for training the YOLO tomato detection model can be found in the "tomato" folder in this repository. The dataset consists of images of tomato fruits. The images are of varying sizes and quality. The images are labelled with bounding boxes around the tomato fruits.
+The custom dataset used for training the YOLO tomato detection model can be found in the "tomato" folder in this repository. The dataset consists of images of tomato fruits. The images are of varying sizes and quality. The images are labelled with bounding boxes around the tomato fruits.The custom tomato dataset used for this project is stored in the "MyDrive" of the Google account used to access Google Colab. The dataset can be accessed by accessing the "tomato" folder in the "MyDrive" of the Google account.
+
+
+
 
 # Model:
 The YOLO tomato detection model is defined in the "tomato_detection.ipynb" notebook file. The model is trained using the custom dataset of tomato images. 
