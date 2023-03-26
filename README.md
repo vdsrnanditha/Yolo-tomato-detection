@@ -20,3 +20,11 @@ The YOLO tomato detection model is defined in the "tomato_detection.ipynb" noteb
 
 # Conclusion:
 This project demonstrates the use of machine learning tools to detect tomato fruits in images. The YOLO algorithm is used to accurately detect tomato fruits in images with a high level of accuracy. The model can be further improved by training on a larger dataset of tomato images.
+
+# Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+# License
+
+This project is licensed under the MIT license.
