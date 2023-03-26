@@ -1,4 +1,4 @@
-# Yolo-tomato
+# Cnn-tomato
 # Overview:
 This project uses YOLO (You Only Look Once) machine learning algorithm to detect tomato fruits in images. The algorithm is trained using a custom dataset of tomato images. The project is implemented in Google Colab and utilizes Python, TensorFlow, Keras, and OpenCV.
 
